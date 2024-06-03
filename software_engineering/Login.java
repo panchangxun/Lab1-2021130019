@@ -98,7 +98,7 @@ public class Login extends JFrame implements ActionListener {
 				userjframe.setVisible(true);
 				loginframe.setVisible(false);
 			} else {
-				JOptionPane.showMessageDialog(this, "Who are you???\n");
+				JOptionPane.showMessageDialog(this, "ohh Who are you???\n");
 			}
 		}
 		if (e.getSource() == b_reset) {
