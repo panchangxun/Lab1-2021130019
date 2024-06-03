@@ -13,6 +13,7 @@ import java.util.PriorityQueue;
 import java.util.Random;
 
 /** 读取原始文件，并将其转化为标准文件data.txt */
+/** 주석 추가 test */
 class ReadFile {
 	public void transformFile(String string) {
 		InputStream is = null;
